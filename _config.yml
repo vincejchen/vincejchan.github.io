@@ -73,7 +73,7 @@ author:
 # If you want to add a new link that isn't here, you'll need to also edit the file _data/SocialNetworks.yml
 social-network-links:
   rss: true
-  email: "vince@chan.systems"
+  email: "vince@levince.ccs"
   linkedin: "vincejchan"
   github: "vincejchan"
 #  reddit: yourname
@@ -98,7 +98,7 @@ share-links-active:
 
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "chan.systems"  # eg. "deanattali.com/beautiful-jekyll"
+url-pretty: "levince.ccs"  # eg. "deanattali.com/beautiful-jekyll"
 
 # --- Web Statistics Section --- #
 
